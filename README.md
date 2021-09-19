@@ -1,4 +1,4 @@
-#Java Flight Recorder with JfrUnit 101
+# Java Flight Recorder with JfrUnit 101
 >gradle-version: 7.2  
 >java-version: 17
 
